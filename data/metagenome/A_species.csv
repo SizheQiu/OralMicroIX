@@ -1,0 +1,20 @@
+genus,species,bin_id,gramneg
+Prevotella,Prevotella shahii,bin.1,1
+Alloprevotella,Alloprevotella sp905369775,bin.10,1
+Hornefia,Hornefia nodata,bin.11,1
+Treponema,unknown,bin.12,1
+Alloscardovia,Alloscardovia omnicolens,bin.13,0
+Prevotella,Prevotella pallens,bin.14,1
+Prevotella,Prevotella histicola,bin.15,1
+Prevotella,Prevotella sp015256945,bin.16,1
+F0428,F0428 sp003043955,bin.17,0
+Filifactor,Filifactor alocis,bin.18,0
+Campylobacter_B,unknown,bin.19,1
+Capnocytophaga,unknown,bin.2,1
+Prevotella,Prevotella salivae,bin.3,1
+Treponema_D,Treponema_D sp905372235,bin.4,1
+Oribacterium,Oribacterium sp015258095,bin.5,0
+Stomatobaculum,Stomatobaculum longum,bin.6,0
+Moraxella,Moraxella sp916720335,bin.7,1
+Porphyromonas,Porphyromonas gingivalis,bin.8,1
+Tannerella,Tannerella forsythia,bin.9,1
