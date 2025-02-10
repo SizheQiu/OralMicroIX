@@ -16,7 +16,10 @@ def build_gem(fasta_path, universe, output_path):
     return None
 
 for i in range(len(Aclass.index)):
-    universe = list(Aclass['universe'])[i]
+    if int(list(Aclass['gramneg'])[i]) == 1:
+        universe = 'gramneg'
+    else:
+        universe = 'grampos'
     bin_id = list(Aclass['bin_id'])[i]
     fasta_path = '../data/MAGs/A_'+bin_id+'.faa'
     output_path = '../data/A_GEMs/A_'+bin_id+'.xml'
@@ -25,7 +28,10 @@ for i in range(len(Aclass.index)):
 print('A gems recon completed.')
 
 for i in range(len(Bclass.index)):
-    universe = list(Bclass['universe'])[i]
+    if int(list(Bclass['gramneg'])[i]) == 1:
+        universe = 'gramneg'
+    else:
+        universe = 'grampos'
     bin_id = list(Bclass['bin_id'])[i]
     fasta_path = '../data/MAGs/B_'+bin_id+'.faa'
     output_path = '../data/B_GEMs/B_'+bin_id+'.xml'
