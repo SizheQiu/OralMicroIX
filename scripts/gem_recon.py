@@ -10,7 +10,7 @@ Aclass = pd.read_csv('../data/metagenome/A_species.csv');
 Bclass = pd.read_csv('../data/metagenome/B_species.csv');
 
 def build_gem(fasta_path, universe, output_path):
-    cmd = 'carve '+fasta_path+' --gapfill LB --cobra -u '+ universe
+    cmd = 'carve '+fasta_path+' --gapfill LB[-O2] --init LB --fbc2 -u '+ universe
     cmd += ' -o ' + output_path
     os.system(cmd)
     return None
