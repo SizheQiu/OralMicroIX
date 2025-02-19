@@ -1,0 +1,1126 @@
+# BLASTP 2.7.1+
+# Query: ID:CqsA Type:CAI-1 synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:PpyS Type:4-hydroxy-3-(11-methyldodecyl)-6-(2-methylpropyl)-pyranone synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+ID:PpyS	k141_2009609_length_34215_cov_23.4091_21	34.351	131	80	2	28	152	37	167	2.87e-13	58.5
+ID:PpyS	k141_1004326_length_15965_cov_22.5913_4	21.495	107	84	0	46	152	43	149	9.05e-10	47.4
+# BLASTP 2.7.1+
+# Query: ID:LasI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:TraI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:CviI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:LuxI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:LuxM Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:EsaI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:PhzI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:YenI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AinS Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AhyI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:BafI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:CarI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:CepI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:CinI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:RaiI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:HalI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:NmuI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:PpuI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:RhiI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:SinI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:VanI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:VanM Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:VfqI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:YpsI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:YtbI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AfeI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:BjaI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:ExpI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:RhlI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:RpaI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:SmaI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:SpsI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:YspI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AsaI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AurI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:BpsI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:BraI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:EcbI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:EdwI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:GDI2836 Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:GinI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:HanI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:MrlI1 Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:MrlI2 Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:MrtI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:Rru_A3396 Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:SolI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:SplI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:SprI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:SwrI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:TofI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:PagI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:PcoI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:SpnI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:CerI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AvsI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:CroI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:EagI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AhlI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:PsyI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:BviI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:CciI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AbaI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:CmrI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:MsaI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:MlaI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:EanI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:YruI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AlpI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AqsI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:PlaI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AcuI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:NwiI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AnoI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:FilI Type:AHLs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+ID:FilI	k141_1986678_length_5814_cov_24.9069_5	29.661	236	144	6	666	884	256	486	5.64e-24	94.7
+ID:FilI	k141_1119056_length_5312_cov_21.4709_4	30.172	232	146	7	662	884	116	340	4.80e-23	90.5
+ID:FilI	k141_777189_length_26047_cov_27.0000_9	28.137	263	171	6	633	884	284	539	7.47e-23	92.0
+ID:FilI	k141_1323470_length_5226_cov_38.8818_5	25.561	223	151	6	671	884	130	346	1.54e-17	73.6
+# BLASTP 2.7.1+
+# Query: ID:LuxS Type:AI-2 synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+ID:LuxS	k141_799911_length_19904_cov_26.2328_15	41.667	144	76	3	4	147	6	141	1.57e-35	111
+ID:LuxS	k141_1304331_length_1111_cov_10.8433_2	39.583	144	79	3	4	147	6	141	3.05e-33	105
+# BLASTP 2.7.1+
+# Query: ID:LuxP Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:LsrB Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:LsrB Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:TlpB Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:RbsB Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:RbsB	k141_1957604_length_4440_cov_21.0607_3	25.764	229	137	9	25	238	64	274	1.19e-09	46.6
+# BLASTP 2.7.1+
+# Query: ID:DarB Type:Dialkylresorcinols synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:RpfF Type:DSFs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+ID:RpfF	k141_1785527_length_2010_cov_4.4971_1	30.682	88	60	1	129	215	103	190	6.47e-07	38.1
+ID:RpfF	k141_1336686_length_14734_cov_18.1377_1	30.682	88	60	1	129	215	166	253	7.40e-07	38.1
+# BLASTP 2.7.1+
+# Query: ID:RpfR Type:DSFs-binding receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:PqsH Type:HAQs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:HmqF Type:HAQs synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+ID:HmqF	k141_2009609_length_34215_cov_23.4091_4	25.706	354	253	5	651	996	34	385	5.68e-23	91.3
+ID:HmqF	k141_2023047_length_6161_cov_23.0000_4	24.870	575	310	22	42	576	64	556	8.38e-22	89.4
+ID:HmqF	k141_379723_length_2262_cov_17.7034_3	28.060	335	182	10	41	335	66	381	8.02e-17	72.4
+ID:HmqF	k141_967316_length_1026_cov_3.3593_1	32.057	209	103	9	11	186	88	290	8.60e-11	52.8
+ID:HmqF	k141_2120187_length_47449_cov_27.8168_6	28.249	177	107	5	66	226	71	243	1.86e-09	49.7
+ID:HmqF	k141_1742364_length_8447_cov_17.9130_1	31.720	186	106	6	18	187	478	658	8.45e-08	44.3
+# BLASTP 2.7.1+
+# Query: ID:PqsR (MvfR) Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:PqsR	k141_1350985_length_9607_cov_23.0769_3	31.507	73	50	0	3	75	1	73	1.53e-07	40.4
+# BLASTP 2.7.1+
+# Query: ID:HmqG Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:TnaA Type:Indole synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:SmcR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:SmcR	k141_1458359_length_4017_cov_17.4422_3	36.486	74	47	0	10	83	31	104	1.00e-12	53.9
+# BLASTP 2.7.1+
+# Query: ID:LasR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+ID:LasR	k141_970499_length_5731_cov_13.6435_1	45.161	62	34	0	175	236	91	152	4.35e-13	54.3
+ID:LasR	k141_2485457_length_2687_cov_4.0000_2	39.394	66	34	1	175	234	77	142	2.36e-09	43.5
+ID:LasR	k141_1650087_length_2435_cov_12.6055_2	37.879	66	35	1	175	234	150	215	9.67e-09	42.7
+# BLASTP 2.7.1+
+# Query: ID:TraR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:CviR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:CviR	k141_970499_length_5731_cov_13.6435_1	38.182	55	34	0	166	220	92	146	8.75e-12	50.4
+# BLASTP 2.7.1+
+# Query: ID:SdiA Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:SdiA	k141_970499_length_5731_cov_13.6435_1	30.645	62	43	0	179	240	91	152	1.15e-08	42.0
+# BLASTP 2.7.1+
+# Query: ID:LuxR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:LuxN Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+ID:LuxN	k141_1119056_length_5312_cov_21.4709_4	28.137	263	156	10	441	686	100	346	3.41e-17	72.4
+ID:LuxN	k141_1323470_length_5226_cov_38.8818_5	22.745	255	165	9	443	685	117	351	2.09e-12	57.8
+ID:LuxN	k141_777189_length_26047_cov_27.0000_8	34.940	83	53	1	720	802	5	86	3.31e-12	55.8
+ID:LuxN	k141_777189_length_26047_cov_27.0000_9	24.291	247	161	8	450	682	307	541	3.37e-12	57.8
+ID:LuxN	k141_1986678_length_5814_cov_24.9069_5	23.194	263	179	8	440	685	235	491	8.03e-12	56.2
+ID:LuxN	k141_107641_length_2185_cov_23.7524_2	23.188	138	104	2	712	847	13	150	2.46e-11	53.5
+ID:LuxN	k141_1986678_length_5814_cov_24.9069_4	30.189	106	73	1	723	827	7	112	6.08e-11	52.0
+ID:LuxN	k141_1293985_length_3265_cov_13.9085_1	30.769	91	53	4	718	799	2	91	1.25e-10	48.9
+ID:LuxN	k141_1323470_length_5226_cov_38.8818_4	29.545	88	59	2	723	810	3	87	1.76e-09	47.4
+ID:LuxN	k141_1343416_length_15829_cov_22.8934_4	29.630	81	54	2	722	799	19	99	2.00e-09	47.0
+# BLASTP 2.7.1+
+# Query: ID:EsaR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:PhzR (QscR) Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:PhzR	k141_970499_length_5731_cov_13.6435_1	30.645	62	43	0	180	241	91	152	2.31e-07	38.1
+# BLASTP 2.7.1+
+# Query: ID:VjbR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:YenR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AinR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+ID:AinR	k141_1343416_length_15829_cov_22.8934_4	28.455	123	79	4	699	816	12	130	5.48e-13	57.4
+ID:AinR	k141_1986678_length_5814_cov_24.9069_5	24.096	249	163	8	449	682	253	490	5.80e-13	60.1
+ID:AinR	k141_1986678_length_5814_cov_24.9069_4	29.907	107	74	1	707	812	7	113	1.62e-12	56.6
+ID:AinR	k141_107641_length_2185_cov_23.7524_2	25.210	119	88	1	695	812	13	131	2.87e-12	56.2
+ID:AinR	k141_777189_length_26047_cov_27.0000_8	29.730	111	76	2	703	812	4	113	1.35e-11	54.3
+ID:AinR	k141_1323470_length_5226_cov_38.8818_5	32.710	107	66	2	577	678	241	346	4.10e-11	53.5
+ID:AinR	k141_1119056_length_5312_cov_21.4709_4	23.077	260	174	11	433	678	93	340	2.09e-10	51.2
+ID:AinR	k141_1293985_length_3265_cov_13.9085_1	28.571	119	76	5	706	815	6	124	7.06e-10	47.0
+ID:AinR	k141_1323470_length_5226_cov_38.8818_4	25.234	107	78	2	707	812	3	108	8.11e-10	48.5
+ID:AinR	k141_777189_length_26047_cov_27.0000_9	22.650	234	162	9	458	682	320	543	1.27e-08	46.2
+# BLASTP 2.7.1+
+# Query: ID:AhyR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+ID:AhyR	k141_970499_length_5731_cov_13.6435_1	34.921	63	41	0	181	243	90	152	7.93e-09	42.4
+ID:AhyR	k141_1650087_length_2435_cov_12.6055_2	34.328	67	38	1	181	241	149	215	7.07e-07	37.4
+# BLASTP 2.7.1+
+# Query: ID:BafR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+ID:BafR	k141_970499_length_5731_cov_13.6435_1	49.180	61	31	0	176	236	92	152	9.91e-16	61.6
+ID:BafR	k141_2485457_length_2687_cov_4.0000_2	40.000	65	33	2	176	234	78	142	2.04e-08	40.8
+ID:BafR	k141_1650087_length_2435_cov_12.6055_2	40.000	65	33	2	176	234	151	215	3.80e-08	40.8
+# BLASTP 2.7.1+
+# Query: ID:CarR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:CarR	k141_970499_length_5731_cov_13.6435_1	38.333	60	37	0	169	228	92	151	8.25e-09	42.4
+# BLASTP 2.7.1+
+# Query: ID:CepR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+ID:CepR	k141_970499_length_5731_cov_13.6435_1	49.180	61	31	0	176	236	92	152	2.03e-14	58.2
+ID:CepR	k141_2485457_length_2687_cov_4.0000_2	41.538	65	32	2	176	234	78	142	2.55e-09	43.5
+ID:CepR	k141_1650087_length_2435_cov_12.6055_2	41.538	65	32	2	176	234	151	215	5.66e-09	43.5
+# BLASTP 2.7.1+
+# Query: ID:CinR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+ID:CinR	k141_970499_length_5731_cov_13.6435_1	45.033	151	69	2	78	214	1	151	1.88e-37	117
+ID:CinR	k141_1293985_length_3265_cov_13.9085_1	45.736	129	64	2	2	124	5	133	7.02e-31	100
+ID:CinR	k141_1650087_length_2435_cov_12.6055_2	35.455	220	117	9	2	207	1	209	5.56e-28	95.1
+ID:CinR	k141_2485457_length_2687_cov_4.0000_2	36.986	146	72	6	72	207	1	136	5.01e-20	72.4
+ID:CinR	k141_1343416_length_15829_cov_22.8934_4	39.496	119	69	3	3	120	18	134	3.63e-19	71.6
+ID:CinR	k141_1666197_length_4149_cov_10.8283_5	36.691	139	79	2	1	130	1	139	1.65e-18	69.3
+ID:CinR	k141_1986678_length_5814_cov_24.9069_4	29.208	202	129	6	3	193	6	204	1.55e-12	53.5
+ID:CinR	k141_777189_length_26047_cov_27.0000_8	28.571	231	129	10	5	216	9	222	5.10e-10	46.6
+ID:CinR	k141_107641_length_2185_cov_23.7524_2	31.532	111	74	2	2	112	23	131	8.63e-09	42.7
+ID:CinR	k141_1323470_length_5226_cov_38.8818_4	32.500	120	72	4	2	118	1	114	6.75e-08	40.0
+# BLASTP 2.7.1+
+# Query: ID:RaiR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:HalR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:NmuR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:NmuR	k141_970499_length_5731_cov_13.6435_1	35.484	62	40	0	177	238	91	152	2.48e-08	40.8
+# BLASTP 2.7.1+
+# Query: ID:PpuR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:RhiR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:SinR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+ID:SinR	k141_1650087_length_2435_cov_12.6055_2	34.940	83	44	2	164	240	137	215	2.11e-07	38.9
+ID:SinR	k141_2485457_length_2687_cov_4.0000_2	35.366	82	43	2	165	240	65	142	2.12e-07	38.1
+# BLASTP 2.7.1+
+# Query: ID:VanR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+ID:VanR	k141_1323470_length_5226_cov_38.8818_4	38.767	227	138	1	4	230	2	227	7.75e-61	181
+ID:VanR	k141_1986678_length_5814_cov_24.9069_4	35.808	229	139	5	4	229	6	229	8.76e-51	155
+ID:VanR	k141_777189_length_26047_cov_27.0000_8	34.667	225	137	3	5	229	8	222	4.48e-48	149
+ID:VanR	k141_107641_length_2185_cov_23.7524_2	33.921	227	142	4	4	229	24	243	4.49e-38	122
+ID:VanR	k141_1373168_length_9798_cov_14.5223_6	30.303	132	89	2	97	228	92	220	1.30e-18	70.9
+ID:VanR	k141_1055591_length_10042_cov_19.2943_5	30.075	133	90	2	97	229	93	222	4.29e-17	66.6
+ID:VanR	k141_1343416_length_15829_cov_22.8934_4	25.000	128	91	3	5	129	20	145	3.75e-12	52.4
+ID:VanR	k141_1529300_length_4122_cov_22.6677_3	31.858	113	69	4	120	229	128	235	4.67e-12	52.8
+# BLASTP 2.7.1+
+# Query: ID:VanN Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+ID:VanN	k141_1119056_length_5312_cov_21.4709_4	26.996	263	159	10	441	686	100	346	3.34e-18	75.5
+ID:VanN	k141_777189_length_26047_cov_27.0000_8	40.244	82	48	1	728	809	6	86	7.32e-14	60.8
+ID:VanN	k141_777189_length_26047_cov_27.0000_9	25.703	249	155	9	450	682	307	541	4.06e-13	60.8
+ID:VanN	k141_1986678_length_5814_cov_24.9069_5	22.814	263	178	8	441	685	236	491	2.61e-12	57.8
+ID:VanN	k141_1323470_length_5226_cov_38.8818_5	24.242	231	150	8	468	685	133	351	3.30e-12	57.0
+ID:VanN	k141_107641_length_2185_cov_23.7524_2	30.392	102	70	1	731	831	26	127	9.80e-12	54.7
+ID:VanN	k141_1293985_length_3265_cov_13.9085_1	31.034	87	50	4	729	806	6	91	1.45e-10	48.9
+ID:VanN	k141_1986678_length_5814_cov_24.9069_4	28.846	104	73	1	730	832	7	110	4.33e-10	49.3
+ID:VanN	k141_1323470_length_5226_cov_38.8818_4	32.927	82	54	1	730	811	3	83	5.52e-10	48.9
+ID:VanN	k141_1343416_length_15829_cov_22.8934_4	24.832	149	93	5	706	853	2	132	9.21e-10	48.1
+# BLASTP 2.7.1+
+# Query: ID:VfqR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+ID:VfqR	k141_970499_length_5731_cov_13.6435_1	39.683	63	38	0	175	237	91	153	4.93e-11	48.5
+ID:VfqR	k141_2485457_length_2687_cov_4.0000_2	41.509	53	30	1	167	218	68	120	4.82e-07	37.0
+ID:VfqR	k141_1650087_length_2435_cov_12.6055_2	41.509	53	30	1	167	218	141	193	6.88e-07	37.4
+# BLASTP 2.7.1+
+# Query: ID:YpsR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:YtbR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AfeR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+ID:AfeR	k141_970499_length_5731_cov_13.6435_1	36.364	77	44	1	166	237	77	153	6.15e-12	51.2
+ID:AfeR	k141_1650087_length_2435_cov_12.6055_2	40.000	60	34	1	175	232	150	209	9.84e-09	42.7
+ID:AfeR	k141_2485457_length_2687_cov_4.0000_2	38.333	60	35	1	175	232	77	136	6.90e-08	39.3
+# BLASTP 2.7.1+
+# Query: ID:Bjar1 Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:Bjar1	k141_970499_length_5731_cov_13.6435_1	34.921	63	41	0	179	241	91	153	5.57e-08	39.7
+# BLASTP 2.7.1+
+# Query: ID:ExpR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:RhlR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+ID:RhlR	k141_970499_length_5731_cov_13.6435_1	32.432	74	48	1	170	241	79	152	1.24e-08	41.6
+ID:RhlR	k141_1650087_length_2435_cov_12.6055_2	35.593	59	38	0	169	227	139	197	3.25e-07	38.1
+# BLASTP 2.7.1+
+# Query: ID:RpaR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:RpaR	k141_970499_length_5731_cov_13.6435_1	38.095	63	39	0	179	241	90	152	3.84e-10	46.2
+# BLASTP 2.7.1+
+# Query: ID:SmaR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:SpsR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:YspR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AsaR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+ID:AsaR	k141_970499_length_5731_cov_13.6435_1	34.921	63	41	0	181	243	90	152	7.93e-09	42.4
+ID:AsaR	k141_1650087_length_2435_cov_12.6055_2	34.328	67	38	1	181	241	149	215	7.07e-07	37.4
+# BLASTP 2.7.1+
+# Query: ID:AurR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:AurR	k141_970499_length_5731_cov_13.6435_1	39.344	61	37	0	182	242	92	152	4.03e-08	40.4
+# BLASTP 2.7.1+
+# Query: ID:BpsR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+ID:BpsR	k141_970499_length_5731_cov_13.6435_1	44.262	61	34	0	176	236	92	152	1.99e-13	55.5
+ID:BpsR	k141_2485457_length_2687_cov_4.0000_2	33.846	65	37	1	176	234	78	142	5.53e-07	36.6
+ID:BpsR	k141_1650087_length_2435_cov_12.6055_2	33.846	65	37	1	176	234	151	215	8.45e-07	37.0
+# BLASTP 2.7.1+
+# Query: ID:BraR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:BraR	k141_970499_length_5731_cov_13.6435_1	34.444	90	49	1	152	231	63	152	1.43e-11	50.1
+# BLASTP 2.7.1+
+# Query: ID:EcbR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:EdwR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:GDI2838 Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:GDI2838	k141_970499_length_5731_cov_13.6435_1	32.308	65	44	0	174	238	89	153	7.34e-08	39.7
+# BLASTP 2.7.1+
+# Query: ID:GinR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:GinR	k141_970499_length_5731_cov_13.6435_1	37.705	61	38	0	174	234	92	152	1.48e-09	44.3
+# BLASTP 2.7.1+
+# Query: ID:HanR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+ID:HanR	k141_970499_length_5731_cov_13.6435_1	38.462	52	32	0	192	243	92	143	2.00e-11	49.7
+ID:HanR	k141_2485457_length_2687_cov_4.0000_2	36.207	58	31	1	192	243	78	135	2.24e-07	38.1
+ID:HanR	k141_1650087_length_2435_cov_12.6055_2	34.483	58	32	1	192	243	151	208	9.69e-07	37.0
+# BLASTP 2.7.1+
+# Query: ID:MrlR1 Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:MrlR1	k141_970499_length_5731_cov_13.6435_1	43.548	62	35	0	182	243	92	153	5.37e-09	42.7
+# BLASTP 2.7.1+
+# Query: ID:MrlR2 Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:MrlR2	k141_970499_length_5731_cov_13.6435_1	42.593	54	31	0	179	232	92	145	1.22e-08	41.6
+# BLASTP 2.7.1+
+# Query: ID:MrtR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:Rru_A3395 Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:SolR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+ID:SolR	k141_970499_length_5731_cov_13.6435_1	47.541	61	32	0	176	236	92	152	2.98e-13	54.7
+ID:SolR	k141_2485457_length_2687_cov_4.0000_2	35.385	65	36	1	176	234	78	142	6.41e-08	39.3
+ID:SolR	k141_1650087_length_2435_cov_12.6055_2	35.385	65	36	1	176	234	151	215	1.13e-07	39.7
+# BLASTP 2.7.1+
+# Query: ID:SplR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:SprR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:SwrR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:TofR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+ID:TofR	k141_970499_length_5731_cov_13.6435_1	50.000	52	26	0	176	227	92	143	1.23e-12	53.9
+ID:TofR	k141_2485457_length_2687_cov_4.0000_2	46.552	58	25	1	176	227	78	135	6.18e-11	48.9
+ID:TofR	k141_1650087_length_2435_cov_12.6055_2	44.828	58	26	1	176	227	151	208	5.20e-10	47.4
+# BLASTP 2.7.1+
+# Query: ID:PagR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:PcoR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+ID:PcoR	k141_1986678_length_5814_cov_24.9069_4	37.946	224	134	2	3	221	6	229	2.55e-51	156
+ID:PcoR	k141_1323470_length_5226_cov_38.8818_4	39.301	229	127	4	3	222	2	227	1.82e-46	144
+ID:PcoR	k141_107641_length_2185_cov_23.7524_2	35.747	221	139	2	3	221	24	243	3.51e-46	143
+ID:PcoR	k141_777189_length_26047_cov_27.0000_8	39.352	216	128	3	4	219	8	220	1.07e-45	142
+ID:PcoR	k141_1055591_length_10042_cov_19.2943_5	26.374	182	125	4	44	219	42	220	6.16e-18	68.9
+ID:PcoR	k141_1373168_length_9798_cov_14.5223_6	27.072	181	123	4	45	219	42	219	1.49e-16	65.1
+ID:PcoR	k141_1343416_length_15829_cov_22.8934_4	30.252	119	77	3	4	119	20	135	2.12e-12	53.1
+ID:PcoR	k141_1529300_length_4122_cov_22.6677_3	32.673	101	62	3	120	219	138	233	6.72e-09	43.1
+# BLASTP 2.7.1+
+# Query: ID:SpnR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:SpnR	k141_1802895_length_3415_cov_20.7312_5	32.632	95	58	4	45	136	90	181	4.74e-07	38.5
+# BLASTP 2.7.1+
+# Query: ID:CerR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+ID:CerR	k141_970499_length_5731_cov_13.6435_1	38.710	62	38	0	169	230	91	152	4.16e-08	40.0
+ID:CerR	k141_2485457_length_2687_cov_4.0000_2	40.385	52	29	1	163	212	69	120	1.48e-07	38.5
+ID:CerR	k141_1650087_length_2435_cov_12.6055_2	40.426	47	28	0	166	212	147	193	7.64e-07	37.0
+# BLASTP 2.7.1+
+# Query: ID:AvsR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:AvsR	k141_970499_length_5731_cov_13.6435_1	37.705	61	38	0	180	240	92	152	6.86e-08	39.7
+# BLASTP 2.7.1+
+# Query: ID:CroR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:CroR	k141_970499_length_5731_cov_13.6435_1	26.923	104	67	1	130	224	45	148	1.71e-07	38.5
+# BLASTP 2.7.1+
+# Query: ID:MalT Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:MalT	k141_970499_length_5731_cov_13.6435_1	42.308	52	30	0	836	887	92	143	7.29e-10	47.4
+# BLASTP 2.7.1+
+# Query: ID:AhlR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+ID:AhlR	k141_970499_length_5731_cov_13.6435_1	46.774	62	33	0	186	247	91	152	1.03e-11	50.4
+ID:AhlR	k141_2485457_length_2687_cov_4.0000_2	39.130	46	28	0	186	231	77	122	2.92e-07	37.7
+ID:AhlR	k141_1650087_length_2435_cov_12.6055_2	36.957	46	29	0	186	231	150	195	8.39e-07	37.0
+# BLASTP 2.7.1+
+# Query: ID:PsyR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+ID:PsyR	k141_970499_length_5731_cov_13.6435_1	46.774	62	33	0	186	247	91	152	9.56e-12	50.8
+ID:PsyR	k141_2485457_length_2687_cov_4.0000_2	39.130	46	28	0	186	231	77	122	5.81e-07	36.6
+# BLASTP 2.7.1+
+# Query: ID:BviR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:BviR	k141_970499_length_5731_cov_13.6435_1	31.818	66	45	0	171	236	87	152	1.33e-08	41.6
+# BLASTP 2.7.1+
+# Query: ID:CciR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AbaR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+ID:AbaR	k141_970499_length_5731_cov_13.6435_1	36.066	61	39	0	178	238	92	152	3.00e-10	46.2
+ID:AbaR	k141_2485457_length_2687_cov_4.0000_2	40.741	54	32	0	178	231	78	131	2.74e-07	37.7
+ID:AbaR	k141_1650087_length_2435_cov_12.6055_2	40.741	54	32	0	178	231	151	204	3.72e-07	38.1
+# BLASTP 2.7.1+
+# Query: ID:CmrR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:CmrR	k141_970499_length_5731_cov_13.6435_1	41.667	60	35	0	173	232	91	150	7.76e-11	48.1
+# BLASTP 2.7.1+
+# Query: ID:EanR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:YruR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AlpR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AqsR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+ID:AqsR	k141_970499_length_5731_cov_13.6435_1	37.705	61	38	0	178	238	92	152	8.14e-11	48.1
+ID:AqsR	k141_2485457_length_2687_cov_4.0000_2	42.593	54	31	0	178	231	78	131	1.36e-07	38.5
+ID:AqsR	k141_1650087_length_2435_cov_12.6055_2	42.593	54	31	0	178	231	151	204	1.97e-07	38.9
+# BLASTP 2.7.1+
+# Query: ID:PlaR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+ID:PlaR	k141_970499_length_5731_cov_13.6435_1	48.148	54	28	0	176	229	92	145	2.09e-13	55.1
+ID:PlaR	k141_2485457_length_2687_cov_4.0000_2	45.763	59	26	1	176	228	78	136	2.74e-11	48.9
+ID:PlaR	k141_1650087_length_2435_cov_12.6055_2	44.068	59	27	1	176	228	151	209	2.00e-10	47.8
+# BLASTP 2.7.1+
+# Query: ID:AcuR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:AcuR	k141_970499_length_5731_cov_13.6435_1	34.426	61	40	0	181	241	92	152	1.98e-08	41.2
+# BLASTP 2.7.1+
+# Query: ID:NwiR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AnoR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:AnoR	k141_970499_length_5731_cov_13.6435_1	32.787	61	41	0	178	238	92	152	2.19e-09	43.9
+# BLASTP 2.7.1+
+# Query: ID:FilR1 Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:FilR1	k141_1343416_length_15829_cov_22.8934_4	31.707	82	53	2	343	424	62	140	4.47e-07	38.9
+# BLASTP 2.7.1+
+# Query: ID:PluR Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+ID:PluR	k141_970499_length_5731_cov_13.6435_1	33.898	59	39	0	171	229	88	146	8.14e-08	39.3
+ID:PluR	k141_2485457_length_2687_cov_4.0000_2	38.298	47	29	0	175	221	78	124	8.47e-08	39.3
+ID:PluR	k141_1650087_length_2435_cov_12.6055_2	38.298	47	29	0	175	221	151	197	1.64e-07	38.9
+# BLASTP 2.7.1+
+# Query: ID:PauR  Type:LuxR-type receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+ID:PauR	k141_2485457_length_2687_cov_4.0000_2	38.298	47	29	0	175	221	78	124	1.16e-07	38.9
+ID:PauR	k141_970499_length_5731_cov_13.6435_1	32.203	59	40	0	171	229	88	146	1.24e-07	38.9
+ID:PauR	k141_1650087_length_2435_cov_12.6055_2	38.298	47	29	0	175	221	151	197	2.03e-07	38.9
+# BLASTP 2.7.1+
+# Query: ID:QseE Type:Noradrenaline synthases
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+ID:QseE	k141_777189_length_26047_cov_27.0000_9	29.126	309	188	10	180	469	243	539	1.60e-23	92.0
+ID:QseE	k141_1323470_length_5226_cov_38.8818_5	30.131	229	156	3	243	469	120	346	7.16e-23	88.2
+ID:QseE	k141_1986678_length_5814_cov_24.9069_5	26.360	239	153	8	247	469	255	486	5.67e-16	68.2
+ID:QseE	k141_1119056_length_5312_cov_21.4709_4	24.889	225	164	3	247	469	119	340	7.11e-15	64.3
+# BLASTP 2.7.1+
+# Query: ID:QseF Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+ID:QseF	k141_1986678_length_5814_cov_24.9069_4	33.600	125	83	0	6	130	5	129	6.35e-16	65.9
+ID:QseF	k141_777189_length_26047_cov_27.0000_8	31.776	107	72	1	1	107	1	106	6.80e-15	62.8
+ID:QseF	k141_107641_length_2185_cov_23.7524_2	29.126	103	73	0	5	107	22	124	1.18e-12	56.2
+ID:QseF	k141_1343416_length_15829_cov_22.8934_4	30.252	119	80	3	5	121	16	133	2.29e-11	51.6
+ID:QseF	k141_1323470_length_5226_cov_38.8818_4	27.143	140	91	3	7	143	2	133	4.67e-11	51.2
+# BLASTP 2.7.1+
+# Query: ID:TraP Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:EntK Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:PrgX Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:TraA Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:RapA Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:LamC Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:ComP Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ID:ComP	k141_1293985_length_3265_cov_13.9085_2	23.853	218	121	9	565	751	200	403	3.01e-08	44.7
+# BLASTP 2.7.1+
+# Query: ID:MrsK2 Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+ID:MrsK2	k141_1119056_length_5312_cov_21.4709_4	29.839	248	166	7	223	469	100	340	4.67e-28	103
+ID:MrsK2	k141_777189_length_26047_cov_27.0000_9	24.335	263	193	3	208	469	282	539	5.26e-26	99.8
+ID:MrsK2	k141_1323470_length_5226_cov_38.8818_5	23.967	242	173	5	231	469	113	346	1.07e-24	93.6
+ID:MrsK2	k141_1986678_length_5814_cov_24.9069_5	25.820	244	153	7	242	469	255	486	2.09e-19	79.0
+# BLASTP 2.7.1+
+# Query: ID:AgrC Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AgrC1 Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AgrC2 Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:AimR Type:AimR receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:ComD Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:PltK Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:RapC Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:CbnK Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:NisK Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+ID:NisK	k141_1119056_length_5312_cov_21.4709_4	20.000	315	218	11	147	436	27	332	4.74e-13	58.5
+ID:NisK	k141_1323470_length_5226_cov_38.8818_5	22.685	216	148	6	233	437	131	338	1.50e-08	44.3
+ID:NisK	k141_1986678_length_5814_cov_24.9069_5	19.383	227	168	6	233	446	262	486	1.64e-08	44.3
+# BLASTP 2.7.1+
+# Query: ID:SrtK Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+ID:SrtK	k141_1323470_length_5226_cov_38.8818_5	22.685	216	147	7	233	436	131	338	9.78e-11	51.2
+ID:SrtK	k141_1986678_length_5814_cov_24.9069_5	23.276	232	144	11	237	445	266	486	3.13e-10	50.1
+ID:SrtK	k141_1119056_length_5312_cov_21.4709_4	25.847	236	153	12	213	435	106	332	8.93e-10	48.1
+# BLASTP 2.7.1+
+# Query: ID:SpaK Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+ID:SpaK	k141_1986678_length_5814_cov_24.9069_5	24.710	259	184	5	209	456	229	487	7.61e-17	70.9
+ID:SpaK	k141_1119056_length_5312_cov_21.4709_4	21.767	317	231	7	154	456	28	341	1.26e-16	69.3
+ID:SpaK	k141_1323470_length_5226_cov_38.8818_5	23.457	243	154	5	231	456	120	347	2.09e-15	65.9
+ID:SpaK	k141_777189_length_26047_cov_27.0000_9	24.400	250	174	7	216	456	297	540	7.70e-14	61.6
+# BLASTP 2.7.1+
+# Query: ID:StxK Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:BlpH Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:PlnB Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:PlcR Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:SppK Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:PisK Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:RapF Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:CbaK,EntK Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:RapE Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:SaeS Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+ID:SaeS	k141_1986678_length_5814_cov_24.9069_5	26.625	323	220	9	35	347	173	488	1.80e-31	112
+ID:SaeS	k141_1323470_length_5226_cov_38.8818_5	29.832	238	148	8	115	344	119	345	2.48e-28	102
+ID:SaeS	k141_777189_length_26047_cov_27.0000_9	25.879	313	221	6	36	344	233	538	1.83e-25	95.9
+ID:SaeS	k141_1119056_length_5312_cov_21.4709_4	25.079	315	211	7	36	332	21	328	5.00e-25	93.2
+# BLASTP 2.7.1+
+# Query: ID:SapK Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:Rgg Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:Rgg-1 Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:rgg2 (MutR family) Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:ComR Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:Cry1Aa Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:NprR Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:VirR Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:VirS Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:FsrC Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# 0 hits found
+# BLASTP 2.7.1+
+# Query: ID:QseC Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+ID:QseC	k141_1986678_length_5814_cov_24.9069_5	27.989	368	220	11	143	473	127	486	5.98e-31	114
+ID:QseC	k141_1119056_length_5312_cov_21.4709_4	27.070	314	202	12	191	479	36	347	1.95e-20	81.3
+ID:QseC	k141_1323470_length_5226_cov_38.8818_5	24.664	223	151	5	262	473	130	346	8.63e-16	67.0
+ID:QseC	k141_777189_length_26047_cov_27.0000_9	22.973	222	163	5	259	473	319	539	1.77e-10	50.8
+# BLASTP 2.7.1+
+# Query: ID:CqsS Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+ID:CqsS	k141_1323470_length_5226_cov_38.8818_5	25.984	254	153	10	172	413	116	346	1.39e-18	76.3
+ID:CqsS	k141_1986678_length_5814_cov_24.9069_5	23.792	269	162	11	167	417	247	490	5.55e-18	75.5
+ID:CqsS	k141_777189_length_26047_cov_27.0000_9	22.680	291	185	13	165	434	295	566	5.58e-13	59.7
+ID:CqsS	k141_1323470_length_5226_cov_38.8818_4	32.174	115	71	2	563	676	2	110	1.81e-12	56.2
+ID:CqsS	k141_1986678_length_5814_cov_24.9069_4	27.119	118	80	2	560	676	3	115	4.95e-12	55.1
+ID:CqsS	k141_1119056_length_5312_cov_21.4709_4	21.318	258	172	11	167	417	111	344	1.16e-11	55.1
+ID:CqsS	k141_777189_length_26047_cov_27.0000_8	29.730	111	72	1	558	668	2	106	1.22e-11	53.9
+ID:CqsS	k141_1343416_length_15829_cov_22.8934_4	37.500	72	44	1	557	627	13	84	2.34e-11	52.4
+ID:CqsS	k141_107641_length_2185_cov_23.7524_2	24.793	121	86	2	563	683	24	139	3.59e-08	43.5
+ID:CqsS	k141_1293985_length_3265_cov_13.9085_1	31.496	127	72	6	561	678	4	124	5.71e-08	41.2
+# BLASTP 2.7.1+
+# Query: ID:CckA Type:TCS receptor
+# Database: User specified sequence set (Input: GenePredict/A_bin.24.faa)
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+ID:CckA	k141_1119056_length_5312_cov_21.4709_4	30.677	251	141	8	311	549	120	349	1.32e-17	73.6
+ID:CckA	k141_1323470_length_5226_cov_38.8818_5	30.693	202	103	8	355	542	169	347	2.14e-14	63.5
+ID:CckA	k141_1986678_length_5814_cov_24.9069_4	30.709	127	82	3	567	691	1	123	5.35e-12	54.7
+ID:CckA	k141_107641_length_2185_cov_23.7524_2	29.167	120	79	3	572	689	24	139	1.22e-11	53.9
+ID:CckA	k141_1986678_length_5814_cov_24.9069_5	41.892	74	39	1	473	542	414	487	2.71e-11	54.3
+ID:CckA	k141_1343416_length_15829_cov_22.8934_4	30.189	106	70	3	570	674	17	119	6.42e-09	45.1
+ID:CckA	k141_777189_length_26047_cov_27.0000_9	25.000	284	157	11	300	558	305	557	2.32e-07	41.6
+ID:CckA	k141_1323470_length_5226_cov_38.8818_4	27.731	119	81	4	572	689	2	116	2.84e-07	40.4
+# BLAST processed 213 queries

@@ -1,0 +1,38 @@
+genus,species,bin_id,gramneg
+Prevotella,Prevotella salivae,bin.1,1
+Ligilactobacillus,Ligilactobacillus salivarius,bin.10,0
+Prevotella,Prevotella histicola,bin.11,1
+Prevotella,Prevotella shahii,bin.12,1
+Caviibacter,unknown,bin.13,0
+Centipeda,Centipeda massiliensis,bin.14,1
+Gallibacter,Gallibacter brachus,bin.15,1
+Shuttleworthia,Shuttleworthia satelles,bin.16,0
+Prevotella,Prevotella sp905372445,bin.17,1
+Prevotella,Prevotella denticola,bin.18,1
+Prevotella,Prevotella sp015256945,bin.19,1
+Arachnia,Arachnia sp013333945,bin.2,0
+Corynebacterium,Corynebacterium durum,bin.20,0
+Prevotella,Prevotella pallens,bin.21,1
+Scardovia,Scardovia wiggsiae,bin.22,0
+Treponema_D,Treponema_D sp905372235,bin.23,1
+Bifidobacterium,Bifidobacterium dentium,bin.24,0
+Eubacterium,Eubacterium sulci,bin.25,0
+Hornefia,Hornefia nodata,bin.26,1
+Prevotella,Prevotella koreensis,bin.27,1
+Streptococcus,Streptococcus sobrinus,bin.28,0
+Stomatobaculum,Stomatobaculum longum_A,bin.29,0
+Dialister,Dialister invisus,bin.3,1
+Mobiluncus,Mobiluncus sp916438445,bin.30,0
+Peptostreptococcus,Peptostreptococcus stomatis,bin.31,0
+Porphyromonas,Porphyromonas gingivalis,bin.32,1
+RUG343,unknown,bin.33,1
+Filifactor,Filifactor alocis,bin.34,0
+Alloprevotella,Alloprevotella sp916438195,bin.35,1
+Prevotella,Prevotella sp013333285,bin.36,1
+Prevotella,Prevotella oris,bin.37,1
+Alloscardovia,Alloscardovia omnicolens,bin.4,0
+Limimorpha,unknown,bin.5,1
+Parascardovia,Parascardovia denticolens,bin.6,0
+F0428,F0428 sp003043955,bin.7,1
+Tannerella,Tannerella forsythia,bin.8,1
+Centipeda,Centipeda noxia,bin.9,0

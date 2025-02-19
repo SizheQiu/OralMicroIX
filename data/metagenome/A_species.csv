@@ -1,0 +1,29 @@
+genus,species,bin_id,gramneg
+Oribacterium,Oribacterium sp015258095,bin.1,0
+Treponema,unknown,bin.10,1
+Treponema,Treponema sp905372235,bin.11,1
+Peptostreptococcus,Peptostreptococcus sp900759325,bin.12,0
+Prevotella,Prevotella histicola,bin.13,1
+Prevotella,Prevotella pallens,bin.14,1
+Hornefia,Hornefia nodata,bin.15,1
+Alloscardovia,Alloscardovia omnicolens,bin.16,0
+Moraxella,Moraxella sp916720335,bin.17,1
+Prevotella,Prevotella shahii,bin.18,1
+Anaeroglobus,Anaeroglobus micronuciformis,bin.19,1
+Alloprevotella,Alloprevotella sp905369775,bin.2,1
+Capnocytophaga,unknown,bin.20,1
+Prevotella,Prevotella salivae,bin.21,1
+Corynebacterium,Corynebacterium durum,bin.22,0
+Metamycoplasma,unknown,bin.23,1
+Rothia,Rothia aeria,bin.24,0
+Prevotella,Prevotella oris,bin.25,1
+Campylobacter,unknown,bin.26,1
+Cardiobacterium,Cardiobacterium hominis,bin.27,1
+Haemophilus,Haemophilus sputorum,bin.28,1
+Filifactor,Filifactor alocis,bin.3,0
+F0058,F0058 sp000163695,bin.4,1
+Prevotella,Prevotella sp015256945,bin.5,1
+Porphyromonas,Porphyromonas gingivalis,bin.6,1
+Stomatobaculum,Stomatobaculum longum,bin.7,0
+F0428,F0428 sp003043955,bin.8,1
+Tannerella,Tannerella forsythia,bin.9,1
