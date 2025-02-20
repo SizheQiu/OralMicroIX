@@ -1,4 +1,5 @@
-smetana ../data/A_GEMs/*.xml --detailed --output ../data/metagenome/A_smetana.tsv
-echo "A smetana done"
+echo "start!"
+#smetana ../data/A_GEMs/*.xml --detailed --output ../data/metagenome/A_smetana.tsv
+#echo "A smetana done"
 smetana ../data/B_GEMs/*.xml --detailed --output ../data/metagenome/B_smetana.tsv
 echo "B smetana done"
