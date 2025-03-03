@@ -8,9 +8,9 @@
 module load Miniconda3/23.1.0-1
 source activate /data/engs-deep-learning-biosystem/bras5181/envs4conda/gtdbtk-2.1.1 
 
-#gtdbtk classify_wf --genome_dir BIN_REFINEMENT/A/metawrap_90_5_bins --out_dir CLASSIFICATION/A -x fa
+#gtdbtk classify_wf --genome_dir BIN_REFINEMENT/A/metawrap_90_10_bins --out_dir CLASSIFICATION/A -x fa
 #echo "A classification!"
 
-gtdbtk classify_wf --genome_dir BIN_REFINEMENT/B/metawrap_90_5_bins --out_dir CLASSIFICATION/B -x fa
+gtdbtk classify_wf --genome_dir BIN_REFINEMENT/B/metawrap_90_10_bins --out_dir CLASSIFICATION/B -x fa
 echo "B classification!"
 source deactivate
