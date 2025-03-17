@@ -1,0 +1,696 @@
+Compound,KEGG ID
+ETHANOLAMINE PHOSPHATE,C00346
+Glycerol 3-phosphate,C00093
+LPE 18:0,C04438|C05973
+Taurine,C00245
+D-Histidine,C00768
+(+)-Isostearic acid,C20356
+Cholesterol sulfate,C18043
+3-Methyl-2-Oxovalerate,C00671
+Genistein,C06563|C00858
+L-Glutamic acid,C00025
+Tyrosine,C00082
+LPE 18:1,C04438|C05973
+SM 17:1;2O/17:0,C00550
+d-Tryptophan,C00525
+7-hydroxy-3-(4-hydroxyphenyl)chromen-4-one,C10208
+Trehalose,C01083
+L-Valine,C00183
+Phenyl sulfate,C00850|C02180
+LPC 18:1,C04230|C04233
+1-Pyrroline,C15668
+LPE 20:1,C04438|C05973
+PE 16:0_18:2,C00350
+Soyasaponin Bb,C08983
+PG(16:0/0:0),C00344
+Bilirubin,C00486
+PE 15:0_15:0,C00350
+L-Lactic acid,C00186
+SM 18:1;2O/14:0,C00550
+Lenticin,C09213
+LPI 20:4,C03819
+Cytidine-5-Monophosphate,C00055
+"3,4-Dehydrolycopene/ 3,4-Didehydrolycopene",C15867
+Biliverdin,C00500
+PE 32:1e,C00350
+FA 16:1,C08362
+LPA 18:0,C00681
+Spermidine,C00315
+"Dl-3,4-Dihydroxymandelic acid",C05580
+5-Hydroxyisourate,C11821
+SM 17:1;2O/16:0,C00550
+PE 18:0_18:2,C00350
+Citrulline,C00327
+CHEBI:39547,C00318
+N-Acetyl-D-galactosamine,C01074|C01132|C02711
+13-OxoODE,C14765
+PE 40:5,C00350
+"PC(LTE4/18:3(6Z,9Z,12Z))",C00157
+Eicosanoic acid,C06425
+PS(18:1(11Z)/18:0),C02737
+1-O-Hexadecyl-sn-glycero-3-phosphocholine,C13903
+PI 36:4,C01194
+D-Glutamic acid,C00217
+3'-Aenylic acid,C01367
+PE 34:2e,C00350
+LysoPE(0:0/16:0),C04438|C05973
+"LysoPE(20:4(5Z,8Z,11Z,14Z)/0:0)",C04438|C05973
+Phosphocholine,C00588
+Chimyl alcohol,C13859
+LPC 20:3,C04230|C04233
+PE(16:1(9Z)/16:0),C00350
+PI 18:0_20:4,C01194
+2'-Deoxyguanosine 5'-Monophosphate,C00362
+Phenyllactic acid,C01479
+LysoPA(P-16:0/0:0),C15646
+NAD,C00003
+"PE(18:2(9Z,12Z)/18:1(11Z))",C00350
+Petanin,C12139
+"(Z)-4',6-Dihydroxyaurone",C08644
+Glycodeoxycholic acid,C05464
+LPS 18:2,C18125|C05974
+PE 34:1,C00350
+PE 18:0_20:3,C00350
+D-Lysine,C00739
+β-Amyrin,C08616
+Deoxycholic acid,C04483
+KB 2,C02347
+3-oxoglycyrrhetinic acid,C02943
+"PC(20:4(5Z,8Z,11Z,14Z)-OH(16R)/DiMe(13,5))",C00157
+Methyl benzoate,C20645
+Kukoamine C,C17617
+m-Salicylic acid,C00587
+Diphenylamine,C11016
+N-Acetylneuraminic acid,C00270
+DL-a-TOCHOPHERYL ACETATE,C13202
+LysoPE(18:1(11Z)/0:0),C04438|C05973
+Ternatin,C16302
+Chavicol,C16930
+Traumatin,C16309
+"LysoPC(18:2(9Z,12Z)/0:0)",C04230|C04233
+LPC 22:4,C04230|C04233
+Tomatine,C10827
+N-Acetyl-a-neuraminic acid,C19909
+"CL(12:0/16:0/18:2(9Z,11Z)/24:0)",C05980
+PE(18:1(11Z)/18:1(11Z)),C00350
+Benalfocin,C10970
+N-Oleoylethanolamine,C20792
+ergostan-3β-ol,C19651
+LysoPE(0:0/14:0),C04438|C05973
+PG(PGE2/i-21:0),C00344
+PI 22:0_18:3,C01194
+Oxaloacetate,C00036
+Neryl formate,C12294
+Mannose 6-phosphate,C00275
+"LysoPC(0:0/18:2(9Z,12Z))",C04230|C04233
+LPC 22:6,C04230|C04233
+"PC(20:4(5Z,8Z,11Z,14Z)/22:2(13Z,16Z))",C00157
+Saccharin,C12283
+Indole-3-lactic acid,C02043
+Chlorobactene,C15908
+"PE(22:4(7Z,10Z,13Z,16Z)/P-16:0)",C00350
+"PE(20:4(5Z,8Z,11Z,14Z)/P-18:0)",C00350
+Styrene,C19506
+Cytidine,C00475
+LPS 20:3,C18125|C05974
+LysoPI(18:0/0:0),C03819
+Clorgiline,C11685
+Prostaglandin E2,C00584
+LPS 22:4,C18125|C05974
+PE 30:1,C00350
+SM 23:0;2O/9:0,C00550
+"PS(PGF1alpha/20:3(5Z,8Z,11Z))",C02737
+Sulfolithocholylglycine,C11301
+PI 7:0_13:0,C01194
+(2-aminoethoxy)[3-[hexadec-1-en-1-yloxy]-2-[hexadec-9-enoyloxy]propoxy]phosphinic acid,C00350
+(2-aminoethoxy)[2-[hexadec-9-enoyloxy]-3-[octadeca-1.11-dien-1-yloxy]propoxy]phosphinic acid,C00350
+PE(18:1(9Z)/P-18:1(9Z)),C00350
+PG(18:0/18:1(9Z)),C00344
+PI(16:1(9Z)/18:1(11Z)),C01194
+Potassium acetate,C12554
+Sugeonyl acetate,C17506
+(+)-Catechin hydrate,C06562
+PG(14:0/18:1),C00344
+PG(i-13:0/i-21:0),C00344
+PIP3(16:0/16:0),C00626
+MEHP,C03343
+"13,16,19-docosatrienoic acid",C16534
+"7α,27-dihydroxycholesterol",C06341
+CL(8:0/21:0/21:0/a-21:0),C05980
+Uridine 5'-monophosphate,C00105
+Cyclostenol,C10443
+LPG 14:0,C18126
+gypsogenin,C08950
+LPG 18:2,C18126
+"PC(16:0/18:2(9Z,12Z))",C00157
+D-4-O-Methyl-myo-inositol,C06353
+N-acetyllactosamine,C00611
+"LysoPE(0:0/18:2(9Z,12Z))",C04438|C05973
+LPS 16:1,C18125|C05974
+LPE 24:1,C04438|C05973
+PE 30:2e,C00350
+"CL(18:1(9Z)/16:1(9Z)/18:2(9Z,12Z)/18:1(11Z))",C05980
+"CL(i-13:0/18:2(9Z,11Z)/18:2(9Z,11Z)/a-25:0)[rac]",C05980
+"PS(22:4(7Z,10Z,13Z,16Z)/20:2(11Z,14Z))",C02737
+(+)-12-methyl myristic acid,C16665
+epsilon-Tocopherol,C14154
+LysoPE(0:0/15:0),C04438|C05973
+LysoPS(16:0/0:0),C18125|C05974
+LPC 16:1,C04230|C04233
+"PC(20:3(8Z,11Z,14Z)-2OH(5,6)/2:0)",C00157
+NAD+,C00003
+"DG(20:2(11Z,14Z)/20:4(5Z,8Z,11Z,14Z)/0:0)",C00165
+PE 38:7e,C00350
+PG(a-15:0/LTE4),C00344
+"(3b,5a,6b,22a,25R)-Furostane-22-methoxy-3,6,26-triol 3-[glucosyl-(1->2)-[xylosyl-(1->3)]-glucosyl-(1->4)-galactoside] 26-glucoside",C05619
+"(Z,Z,Z)-1,8,11,14-Heptadecatetraene",C17535
+α-ESA,C08315
+(±)8(9)-EET,C14769
+Adenosine triphosphate,C00002
+Uridine diphosphate-N-acetylglucosamine,C00043
+CL(i-15:0/16:0/a-17:0/20:0),C05980
+"TG(22:2(13Z,16Z)/22:2(13Z,16Z)/O-18:0)",C00422
+Oleic acid,C00712
+5-O-Methylembelin,C10373
+PA(8:0/i-13:0),C00416
+Protoporphyrin IX,C02191
+PG 14:0_16:0,C00344
+"PE(P-18:0/22:5(4Z,7Z,10Z,13Z,16Z))",C00350
+PI(16:1(9Z)/18:0),C01194
+Capsiamide,C17515
+LPE 17:1,C04438|C05973
+Quercetin-3-O-rhamnoside,C01750
+Fluphenazine enanthate,C07955
+"DG(20:5(5Z,8Z,11Z,14Z,17Z)/18:1(9Z)/0:0)",C00165
+PC(15:0/P-18:1(9Z)),C00157
+PE 18:2_20:4,C00350
+"PE(18:0/20:4(5Z,8Z,11Z,14Z))",C00350
+SQDG 31:5,C13508
+PS 36:4,C02737
+3-Methylindole,C08313
+Leukotriene E4,C05952
+PA 24:2,C00416
+LPC 17:0,C04230|C04233
+SM 9:0;2O/13:0,C00550
+PS(18:0/18:2),C02737
+"PC(DiMe(13,5)/PGJ2)",C00157
+"PIP3(18:2(9Z,12Z)/20:1(11Z))",C00626
+[8]-Shogaol,C10494
+N-Acetyl-7-O-acetylneuraminic acid,C04016
+Psychosine,C01747
+Isorenieratene/ (Leprotene),C15943
+LPS 20:0,C18125|C05974
+CL(8:0/a-21:0/a-21:0/i-21:0),C05980
+PG(17:0/17:0),C00344
+"PA(20:4(5Z,8Z,10E,14Z)-OH(12S)/i-21:0)",C00416
+Avermectin A1a,C11984
+PG(18:1(11Z)/LTE4),C00344
+LysoPA(O-18:0/0:0),c03968
+LPA 18:2,C00681
+"PA(i-12:0/20:4(5Z,8Z,11Z,13E)+=O(15))",C00416
+Arvensoside D,C08923
+4-Coumaryl alcohol,C02646
+Uridine,C00299
+Thyrotropin releasing hormone,C03958
+previtamin D3 / precholecalciferol / (6Z)-tacalciol,C07711
+Adenosine Diphosphate,C00008
+LPC 20:1,C04230|C04233
+LPI 19:0-d4,C03819
+"CL(16:0/18:2(9Z,11Z)/18:2(9Z,11Z)/23:0)",C05980
+FAD,C00016
+PC(18:0/PGF1alpha),C00157
+"PC(20:5(7Z,9Z,11E,13E,17Z)-3OH(5,6,15)/20:5(5Z,8Z,11Z,14Z,17Z))",C00157
+4-Hydroxyphenyllactic acid,C03672
+"12-nitro-9Z,12Z-octadecadienoic acid",C13958
+"LysoPE(20:3(5Z,8Z,11Z)/0:0)",C04438|C05973
+"LysoPE(22:4(7Z,10Z,13Z,16Z)/0:0)",C04438|C05973
+PG(a-13:0/i-20:0),C00344
+(2-aminoethoxy)[2-[icosa-5.8.11-trienoyloxy]-3-[octadec-1-en-1-yloxy]propoxy]phosphinic acid,C00350
+"PS(20:5(7Z,9Z,11E,13E,17Z)-3OH(5,6,15)/15:0)",C02737
+PI 17:0_17:2,C01194
+"TG(22:1(13Z)/22:2(13Z,16Z)/O-18:0)",C00422
+D-Phenyllactic acid,C05607
+Trinexapac-ethyl,C18541
+2-Hydroxyphenylacetic acid,C05852
+Amygdalin,C08325
+Glucosylsphingosine,C03108
+LPG 15:0-d5,C18126
+LPS 22:0,C18125|C05974
+LPC 22:5,C04230|C04233
+"(S,S)-(+)-Tetrandrine",C17060
+PE 29:2,C00350
+CL(16:1(9Z)/18:0/16:1(9Z)/16:1(9Z)),C05980
+"PE(P-16:0/22:5(4Z,7Z,10Z,13Z,16Z))",C00350
+SM 34:1;3O,C00550
+PC 10:0_26:3,C00157
+PC 18:2_20:4,C00157
+PG(a-21:0/5-iso PGF2VI),C00344
+PIP2(18:1(11Z)/16:1(9Z)),C00626
+alpha-Methylstyrene,C14395
+Citraconic acid,C02226
+8-HETE,C14776
+Sphingosine-1-phosphate,C06124
+"stigmasta-7,22E-dien-3β-ol",C08840
+PE 28:2e,C00350
+PI(20:1/0:0),C01194
+(2-aminoethoxy)[2-(hexadecanoyloxy)-3-[octadec-1-en-1-yloxy]propoxy]phosphinic acid,C00350
+Trypanothione disulfide,C03170
+CL(10:0/21:0/22:0/22:0),C05980
+"PG(18:1_18:0) - [1-[[2,3-dihydroxypropoxy]-hydroxyphosphoryl]oxy-3-[octadec-11-enoyl]oxypropan-2-yl] octadecanoate",C00344
+"PS(20:4(8Z,11Z,14Z,17Z)/20:2(11Z,14Z))",C02737
+m-Cresol,C01467
+D-Aspartic acid,C00402
+4-Isopropylbenzoic acid,C06578
+"cis-9,10-Epoxystearic acid",C19418
+5-AMINOIMIDAZOLE-4-CARBOXAMIDE-1-BETA-D-RIBOFURANOSYL 5'-MONOPHOSPHATE,C04677
+LPA 17:0,C00681
+Proanthocyanidin A2,C10237
+Fluphenazine decanoate,C07956
+PG 25:2,C00344
+"PC(20:4(6Z,8E,10E,14Z)-2OH(5S,12R)/2:0)",C00157
+PE 32:3e,C00350
+PI 7:0_18:4,C01194
+PE(P-18:0/18:1(9Z)),C00350
+SM 28:0;2O/6:0,C00550
+PI 32:7,C01194
+PG(PGE2/i-19:0),C00344
+PC(16:1(9Z)/LTE4),C00157
+4-Hydroxybenzenesulfonic acid,C12849
+Isocitrate,C00311
+Luteolin,C01514
+[6]-Gingerdione,C10459
+"5-Hydroperoxy-6-trans-8,11,14-cis-eicosatetraenoate (5-HPETE)",C05356
+(±)14(15)-EET,C14771
+Cyclic GMP,C00942
+"LysoPE(0:0/22:5(7Z,10Z,13Z,16Z,19Z))",C04438|C05973
+1-Oleoyl-Sn-Glycero-3-Phosphocholine,C04230|C04233
+Neohesperidin,C09806
+PE 30:1e,C00350
+DG(18:2n6/0:0/20:4n6),C00165
+"DG(18:3(9Z,12Z,15Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)",C00165
+PC(PGF2alpha/2:0),C00157
+CL(i-14:0/i-14:0/i-16:0/i-22:0),C05980
+PG 31:0,C00344
+"PE(18:0/18:2(9Z,12Z))",C00350
+"CL(i-13:0/18:2(9Z,11Z)/i-22:0/i-22:0)",C05980
+"1,2-Dipalmitoylphosphatidylcholine",C00157
+PS(PGJ2/14:1(9Z)),C02737
+"PE(18:0/22:5(4Z,7Z,10Z,13Z,16Z))",C00350
+"PS(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",C02737
+"PIP(16:2(9Z,12Z)/18:0)",C00626
+PI 24:0_16:3,C01194
+"PC(22:5(4Z,7Z,10Z,13Z,16Z)/LTE4)",C00157
+Malonic semialdehyde,C00222
+22-hydroxydocosanoic acid,C19623
+N-[4-[1-[2-(6-Methylpyridin-2-yl)ethyl]piperidine-4-carbonyl]phenyl]methanesulfonamide,C13776
+α-MANGOSTIN,C10080
+LPS 17:0,C18125|C05974
+Cucurbitacin I,C08800
+"N-[(3a,5b,7a)-3-hydroxy-24-oxo-7-(sulfooxy)cholan-24-yl]-Glycine",C01324
+CL(i-14:0/a-13:0/i-14:0/a-13:0)[rac],C05980
+PI(20:2/0:0),C01194
+PE 29:2e,C00350
+"CL(11:0/18:2(9Z,11Z)/21:0/a-21:0)",C05980
+"PE(P-16:0/20:2(11Z,14Z))",C00350
+"CL(18:0/18:1(11Z)/18:0/18:2(9Z,12Z))",C05980
+"PA(PGE2/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",C00416
+PI 16:0_20:3;O,C01194
+m-Tolual acid,C07211
+3-oxo-5S-amino-hexanoic acid,C03656
+tuberculosinol,C19963
+(S)-[8]-Gingerol,C17495
+Tetrahydro-11-deoxycortisol,C14594
+MG(18:1(9Z)/0:0/0:0),C01885
+20-Carboxy-Leukotriene B4,C05950
+BRUCINE,C09084
+Phytyl diphosphate,C05427
+LPS 20:1,C18125|C05974
+PE 36:6e,C00350
+PE 36:1,C00350
+"CL(16:0/18:2(9Z,11Z)/18:2(9Z,11Z)/25:0)",C05980
+"PA(22:5(7Z,10Z,13Z,16Z,19Z)/20:4(5Z,8Z,11Z,13E)-OH(15S))",C00416
+2-Hydroxyphenylacetic acid,C05852|C01983
+"Naphthalene-1,2-diol",C03012
+LPC 14:0,C04230|C04233
+Isotetrandrine,C17060
+PI 20:3,C01194
+"PC(2:0/20:3(8Z,11Z,14Z)-2OH(5,6))",C00157
+CL(16:0/16:1(9Z)/18:1(9Z)/16:0),C05980
+PE 15:0_18:1,C00350
+PE 17:1_17:1,C00350
+PE 18:2_18:2,C00350
+"CL(16:0/16:0/18:2(9Z,11Z)/24:0)",C05980
+"PA(18:3(9Z,12Z,15Z)/20:5(7Z,9Z,11E,13E,17Z)-3OH(5,6,15))",C00416
+"PE(P-18:1(11Z)/22:5(7Z,10Z,13Z,16Z,19Z))",C00350
+PS 36:5,C02737
+PC 14:1_20:1,C00157
+"PA(24:1(15Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",C00416
+PI(20:0/20:4),C01194
+"PC(20:3(5Z,8Z,11Z)/LTE4)",C00157
+Styrene oxide,C02083
+METHOPRENE (S),C14308
+2'-Deoxyinosine-5'-monophosphate sodium salt,C06196
+Dihydrocorticosterone,C05475
+17(R)-Resolvin D1,C18178
+LPE 13:0,C04438|C05973
+Obacunone,C08775
+LPG 15:0-d4,C18126
+PG(16:1/0:0),C00344
+Polidocanol,C13493
+Cer(d16:1/PGE2),C00195
+PC(2:0/5-iso PGF2VI),C00157
+PE(16:0/16:0),C00350
+PE 15:0_18:3,C00350
+SM 9:0;2O/22:1,C00550
+PE 34:4,C00350
+(2-aminoethoxy)[2-(hexadecanoyloxy)-3-[octadec-11-enoyloxy]propoxy]phosphinic acid,C00350
+PS(15:0/20:1(11Z)),C02737
+MGDG 36:3,C03692
+PS(PGD1/18:0),C02737
+PG(a-25:0/5-iso PGF2VI),C00344
+PE(LTE4/20:0),C00350
+TG(22:1(13Z)/20:2n6/O-18:0),C00422
+"PG(LTE4/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",C00344
+DL-Norleucine,C01933
+12-Hydroxydodecanoic Acid,C08317
+Ubiquinone-1,C00399
+2-methoxy-6Z-hexadecenoic acid,C13946
+2-oxophytanic acid,C02117
+"LysoPA(20:4(8Z,11Z,14Z,17Z)/0:0)",C00681
+"LysoPA(20:3(5Z,8Z,11Z)/0:0)",C00681
+Manumycin A,C12111
+PI(18:1/0:0),C01194
+PE 29:1,C00350
+"PA(a-13:0/18:1(12Z)-2OH(9,10))",C00416
+PS(16:1(9Z)/14:0),C02737
+CL(18:0/16:0/18:0/18:1(11Z)),C05980
+"CL(11:0/18:2(9Z,11Z)/22:0/22:0)",C05980
+"PA(i-18:0/20:3(6,8,11)-OH(5))",C00416
+SM 12:0;2O/22:2,C00550
+MGDG 14:0_18:1,C03692
+PE(18:0/22:4),C00350
+"PS(20:3(5Z,8Z,11Z)/22:4(7Z,10Z,13Z,16Z))",C02737
+DGDG 14:0_14:0,C06037
+"PC(DiMe(13,5)/20:4(5Z,8Z,11Z,13E)+=O(15))",C00157
+"PC(LTE4/20:4(5Z,8Z,11Z,14Z))",C00157
+Dulcitol,C01697
+11-Cyclohexylundecanoic acid,C12100
+Dihydromethysticin,C09926
+Momilactone A,C18015
+"2,3-Epoxymenaquinone",C20265
+TG(a-25:0/i-12:0/8:0)[rac],C00422
+"5,6-Dihydroxyprostaglandin F1a",C06475
+Hexylglutathione,C02886
+Medicocarpin,C16223
+"3a,7a,12a-Trihydroxy-5b-cholestan-26-al",C01301
+LPA 20:2,C00681
+Mascaroside,C09132
+PE 13:0_13:0,C00350
+PC(14:0/15:0),C00157
+"DG(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/22:0/0:0)",C00165
+PE(17:1/18:0),C00350
+SQDG 29:4,C13508
+PI 32:5,C01194
+PG(18:1/20:2),C00344
+MGDG 34:1,C03692
+PG(a-15:0/PGF1alpha),C00344
+"PS(22:6(5Z,8E,10Z,13Z,15E,19Z)-2OH(7S, 17S)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",C02737
+PI 18:0_22:4,C01194
+DGDG 33:2,C06037
+DGDG 18:0_18:4,C06037
+L-Tyrosinemethylester,C03404
+"Ethyl 2Z,4E-decadienoic acid",C08486
+Gamma-glutamyl-L-putrescine,C15699
+n-Butyl acetate,C12304
+Liquiritigenin,C09762
+Amabiline,C10263
+Sphinganine,C00836
+MG(i-15:0/0:0/0:0),C01885
+8(S)-HETE,C14776
+Enalaprilat,C11720
+Sophoranone,C08719
+Biochanin A 7-O-beta-d-glucoside-6''-O-malonate,C12625
+LPE 22:0,C04438|C05973
+"DG(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/15:0/0:0)",C00165
+"CL(10:0/11:0/18:2(9Z,11Z)/21:0)",C05980
+PE-NMe(14:0/16:0),C01241
+"PA(18:2(9Z,12Z)/18:1(11Z))",C00416
+"CL(16:0/18:0/18:2(9Z,11Z)/i-22:0)",C05980
+"CL(i-15:0/18:2(9Z,11Z)/18:2(9Z,11Z)/i-24:0)",C05980
+"PS(14:0/20:3(5Z,8Z,11Z))",C02737
+MGDG 31:0,C03692
+PE 40:9e,C00350
+"PG(a-17:0/18:1(12Z)-2OH(9,10))",C00344
+PE(P-18:1(9Z)/PGF2alpha),C00350
+PG 18:2_22:3,C00344
+"PA(20:5(5Z,8Z,11Z,14Z,17Z)/LTE4)",C00416
+PI 20:2_18:3,C01194
+"PG(LTE4/20:4(5Z,8Z,11Z,14Z))",C00344
+"PC(24:0/20:4(6Z,8E,10E,14Z)-2OH(5S,12R))",C00157
+PIP2(18:0/16:0),C00626
+Oxytocin,C00746
+MLCL 14:1_18:1_20:5,C18129
+trans-Cinnamic acid,C00423|C10438
+Propylparaben,D01422
+4-[(Hydroxymethyl)nitrosoamino]-1-(3-pyridinyl)-1-butanone,C19563
+Traumatic acid,C16308
+12R-hydroxy-9Z-octadecenoic acid,C08365
+"Taxa-4(20),11(12)-dien-5α,13α-diol",C11897
+Dihydrodiethylstilbestrol,C13101
+Melanin,C05606
+Trioxilin A3,C14809
+Epanolol,C11773
+Bisindolylmaleimide I,C11238
+Pomiferin,C10519
+Chenodeoxyglycocholate,C05462
+LysoPA(i-21:0/0:0),C00681
+LPE 19:0,C04438|C05973
+PE(22:6/0:0),C00350
+Antimycin A,C11339
+LPS 22:1,C18125|C05974
+TG(10:0/10:0/i-13:0),C00422
+Tetrandrine,C17060
+MGDG 6:0_18:2,C03692
+DG(PGJ2/0:0/20:0),C00165
+"PA(i-16:0/20:4(5Z,8Z,11Z,14Z)-OH(16R))",C00416
+"CL(18:1(9Z)/18:2(9Z,12Z)/20:4(5Z,8Z,11Z,14Z)/18:1(9Z))",C05980
+PS(18:1/18:2),C02737
+"PS(16:0/18:1(12Z)-2OH(9,10))",C02737
+"PS(18:1(12Z)-2OH(9,10)/18:0)",C02737
+MGDG 36:5,C03692
+MGDG 35:3,C03692
+"PS(22:2(13Z,16Z)/20:5(5Z,8Z,11Z,14Z,16E)-OH(18R))",C02737
+PS(22:0/PGJ2),C02737
+"TG(24:1(15Z)/18:2(9Z,12Z)/O-18:0)",C00422
+DGDG 16:1_18:2,C06037
+DGDG 18:1_17:2,C06037
+Beta-Leucine,C02486
+Gentisate aldehyde,C05585
+1-Naphthylamine,C14790
+"(3S,5S)-3,5-Diaminohexanoate",C01186
+Glucuronolactone,C02670
+L-Iditol,C01507
+2iP(N6-Isopentenyladenine ),C04083
+Methyl jasmonate,C11512
+LPE 2:0,C04438|C05973
+Galanolactone,C17498
+PGF1α,C06475
+11-dehydro TXB2,C05964
+7alpha-Hydroxy-3-oxo-4-cholestenoate,C17337
+(+)-24-Dammarene-3beta-20S-diol,C19829
+ST 24:1;O4;G,C01921
+PC(14:0/0:0),C00157
+LPC 18:3,C04230|C04233
+PC 20:4e,C00157
+LPI 20:2,C03819
+PA(PGJ2/10:0),C00416
+DG(17:0/0:0/5-iso PGF2VI),C00165
+"Cer(d20:1/22:6(5Z,8E,10Z,13Z,15E,19Z)-2OH(7S, 17S))",C00195
+PE 31:2,C00350
+PE(14:0/P-18:1(11Z)),C00350
+PE 32:3,C00350
+PG 33:1,C00344
+CL(16:0/16:0/i-16:0/25:0),C05980
+MGDG 32:2,C03692
+PG 37:2,C00344
+7-Methyl-3-oxo-6-octenoyl-CoA,C16466
+DGDG 18:2_18:4,C06037
+PE 44:0_32:6,C00350
+2-Ketohexanoic acid /2-oxohexanoic acid,C00902
+Ethyl butylacetylaminopropionate,C18830
+Diisobutyl phthalate,C15205
+Capsiate,C20203
+Erucic acid,C08316
+"4-{[(5,5,8,8-Tetramethyl-5,6,7,8-tetrahydronaphthalen-2-yl)carbonyl]amino}benzoic acid",C15619
+7-Hydroxyflavanone beta-D-glucopyranoside,C04007
+Diisononyl phthalate,C15221
+Epothilone A,C12153
+Flufenoxuron,C18430
+Cucurbitacin P,C08804
+DMG-MINO,C12011
+Cholesterol glucuronide,C03033
+LPI 16:1,C03819
+Scolymoside,C12630
+LPI 18:2,C03819
+Cer(d20:1/6 keto-PGF1alpha),C00195
+GPnEtn(16:0/18:1(9Z)),C13878
+PA(i-12:0/i-24:0),C00416
+"CL(i-12:0/18:2(9Z,11Z)/i-22:0/18:2(9Z,11Z))",C05980
+SM(d18:0/16:1(9Z)(OH)),C00550
+PE(18:0/18:1(9Z)),C00350
+"PA(18:1(12Z)-2OH(9,10)/i-21:0)",C00416
+Distearoyl phosphatidylglycerol,C00344
+"PA(22:5(4Z,7Z,10Z,13Z,16Z)/20:5(7Z,9Z,11E,13E,17Z)-3OH(5,6,15))",C00416
+SQDG 18:0_16:1,C13508
+PI 36:5,C01194
+PI 16:1_22:3,C01194
+DGDG 29:0,C06037
+"PE(DiMe(9,3)/LTE4)",C00350
+PS(22:0/PGE1),C02737
+DGDG 17:2_18:3,C06037
+"3,4-Dihydroxyphenylacetaldehyde",C04043
+Ethyl octanoate,C12292
+dexpanthenol,C05944
+N-Acetyl-L-phenylalanine,C03519
+Tetradecanoic acid,C06424
+Biotin,C00120
+Obtusifolin,C17039
+"10-hydroperoxy-8E,12Z-octadecadienoic acid",C19937
+9Z-Octadecenedioic acid,C19618
+Levuglandin D2,C13808
+Cortolone,C05481
+LPA 16:0,C00681
+6α-METHYLPREDNISOLONE ACETATE,C08179
+LPS 15:0,C18125|C05974
+"tritriacontane-16,18-dione",C08394
+LysoPC(18:1(11Z)/0:0),C04230
+Hordatine A,C08307
+PI(16:0/0:0),C01194
+PC 20:2e,C00157
+PE 12:0_15:0,C00350
+"DG(20:3(5Z,8Z,11Z)/22:5(7Z,10Z,13Z,16Z,19Z)/0:0)",C00165
+MGDG 27:0,C03692
+"DG(22:6(4Z,7Z,11E,13Z,15E,19Z)-2OH(10S,17)/0:0/i-20:0)",C00165
+"PS(14:0/18:3(9Z,12Z,15Z))",C02737
+PC(P-18:0/15:0),C00157
+PnC(16:0/18:1(9Z)),C13876
+"PA(i-19:0/20:3(6,8,11)-OH(5))",C00416
+PG(19:1/19:1),C00344
+PI 32:0,C01194
+PS 21:1_18:2,C02737
+PI 34:1,C01194
+"PS(22:4(7Z,10Z,13Z,16Z)/20:4(5Z,8Z,11Z,14Z))",C02737
+"PC(DiMe(13,5)/22:6(5Z,7Z,10Z,13Z,16Z,19Z)-OH(4))",C00157
+DGDG 18:1_18:1,C06037
+PE 41:0_34:2,C00350
+Pyroglutamic acid,C01879
+trans-Cinnamic acid,C00423|C10438
+Terephthalic acid,C06337
+Cnidilide,C16937
+Isoelemicin,C16975
+O-butanoyl-carnitine,C02862
+Baicalein,C10023
+Abietic acid,C06087
+Dihexyl phthalate,C14504
+TXB2,C05963
+4-Methylthiobutyl glucosinolate,C08409
+DHAP(18:0),C03805
+5-Formiminotetrahydrofolic acid,C00664
+Dermatan sulfate,C00426
+PE 20:4e,C00350
+LPS 17:1,C18125|C05974
+PC 16:0e,C00157
+Taurolithocholic acid 3-sulfate,C03642
+PI(22:4/0:0),C01194
+CL(i-12:0/14:0/14:0/i-22:0),C05980
+"PA(16:0/18:3(9Z,12Z,15Z))",C00416
+"PA(20:4(5Z,7E,11Z,14Z)-OH(9)/P-16:0)",C00416
+PE(16:1(9Z)/P-18:1(9Z)),C00350
+"DG(i-20:0/0:0/20:4(8Z,11Z,14Z,17Z)-2OH(5S,6R))",C00165
+"PE(18:3(6Z,9Z,12Z)/18:1(9Z))",C00350
+PG(16:1/18:1),C00344
+"PC(18:4(6Z,9Z,12Z,15Z)/P-18:1(9Z))",C00157
+PG 36:3,C00344
+DG(LTE4/0:0/19:0),C00165
+PC 34:0,C00157
+MGDG 18:1_18:1,C03692
+"PS(20:5(5Z,8Z,11Z,14Z,17Z)/22:2(13Z,16Z))",C02737
+PC 41:6,C00157
+DGDG 14:0_17:0,C06037
+DGDG 32:0,C06037
+"TG(24:1(15Z)/20:4(8Z,11Z,14Z,17Z)/O-18:0)",C00422
+DGDG 20:0_16:3,C06037
+PE 43:0_24:5,C00350
+PE 40:0_28:1,C00350
+Coumarinic acid,C05838
+2-Isopropylmalic acid,C02504
+Glycylleucine,C02155
+2-Methylhippuric acid,C01586
+(E)-4-stilbenol,C14763
+Hexadecanoic acid,C00249
+Histidylleucine,C05010
+"4,4'-dihydroxy-3,5-dimethoxydihydrostilbene",C10256
+Cholesteryl laurate,C02530
+12(S)-Hydroperoxyeicosatetraenoic Acid [12(S)-Hpete],C05965
+Isomaltose,C00252
+N-Acetyl-4-O-acetylneuraminic acid,C04015
+11b-PGF2a,C05959
+Auriculoside,C09478
+"LysoPE(20:2(11Z,14Z)/0:0)",C04438|C05973
+"9,9'-di-cis-zeta-carotene",C15857
+PC 18:0e,C00157
+16:0 Cholesteryl ester,C11251
+PE(14:1(9Z)/14:0),C00350
+DG(19:0/0:0/PGJ2),C00165
+"PA(18:3(6Z,9Z,12Z)/18:2(9Z,12Z))",C00416
+"DG(i-19:0/0:0/22:6(4Z,7Z,11E,13Z,15E,19Z)-2OH(10S,17))",C00165
+PC(14:0/P-18:1(11Z)),C00157
+PA(i-24:0/13:0),C00416
+PG 7:0_25:0,C00344
+PG(16:0/16:0),C00344
+PG 16:0_18:1,C00344
+PS(16:1(9Z)/18:1(11Z)),C02737
+PC 13:1_18:1,C00157
+PG(16:1/19:0),C00344
+[2.3-dihydroxypropoxy][2-[octadeca-9.12-dienoyloxy]-3-(octadecanoyloxy)propoxy]phosphinic acid,C00344
+"PE(22:5(7Z,10Z,13Z,16Z,19Z)/18:1(11Z))",C00350
+PC 17:0_16:1,C00157
+"PA(22:1(13Z)/22:5(4Z,7Z,10Z,13Z,16Z))",C00416
+PA(22:1(13Z)/6 keto-PGF1alpha),C00416
+PE(P-16:0/LTE4),C00350
+"PS(22:0/20:4(6Z,8E,10E,14Z)-2OH(5S,12R))",C02737
+DGDG 15:0_16:1,C06037
+DGDG 8:0_24:1,C06037
+TG(18:0/24:0/O-18:0),C00422
+"PC(PGJ2/DiMe(13,5))",C00157
+DGDG 36:3,C06037
+PI 47:3,C01194
+Gentianine,C06525
+Allyl 3-cyclohexylpropionate,C12306
+3-hydroxy-2-phenylchromen-4-one,C01495
+2'-deoxyadenosine,C00559
+Sphinganine,C00836
+Embelin,C10342
+Palmitoyl Ethanolamide,C16512
+15-Oxoete,C04577
+Thromboxane A2,C02198
+Cascarillin,C09071
+Kuraridinol,C17445
+Cucurbitacin S,C08806
+PE 28:1e,C00350
+"DG(14:0/22:2(13Z,16Z)/0:0)",C00165
+PE 30:3e,C00350
+(2-aminoethoxy)[3-[hexadec-1-en-1-yloxy]-2-(hexadecanoyloxy)propoxy]phosphinic acid,C04756
+PE(P-18:0/16:0),C00350
+"CL(18:1(9Z)/16:1(9Z)/18:2(9Z,12Z)/18:1(9Z))",C05980
+CL(i-15:0/17:0/i-20:0/i-20:0),C05980
+PE 36:5,C00350
+SQDG 12:0_20:5,C13508
+"PS(18:2(9Z,12Z)/20:3(8Z,11Z,14Z))",C02737
+PA(18:0/LTE4),C00416
+PI 18:1_18:2,C01194
+DGDG 13:0_15:0,C06037
+DGDG 32:2,C06037
+DGDG 15:0_18:1,C06037
+DGDG 34:2,C06037
+DGDG 10:0_24:1,C06037
