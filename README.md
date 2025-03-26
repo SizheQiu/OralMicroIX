@@ -1,2 +1,5 @@
 # OralMetaGEM
-Oral metagenome-scale metabolic modeling
+Oral metagenome/metabolome of young and elderly people with different taste sentivity
+## Data
+
+## Citation
