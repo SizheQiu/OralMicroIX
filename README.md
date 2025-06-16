@@ -1,5 +1,5 @@
 # OralMicroIX
-Oral metagenome/metabolome of young and elderly people with different taste sentivity
+Oral metagenome/metabolome of young and elderly individuals with different taste sentivity
 ## Data
 1. Sample information: /data/sample_info.csv<br>
 2. Taste detection thresholds:/data/metagenome/Thresholds.csv<br>
