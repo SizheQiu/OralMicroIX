@@ -5,6 +5,7 @@ Oral metagenome/metabolome of young and elderly individuals with different taste
 2. Taste detection thresholds:/data/metagenome/Thresholds.csv<br>
 3. Metagenome-assemble genomes:/data/MAGs/<br>
 4. Metabolomics:/data/metabolome/lcms.csv<br>
+5. C-culture validation experiments: /data/culture_data/<br>
 ## Dependency:
 1. MetaWRAP: https://github.com/bxlab/metaWRAP<br>
 2. HUMAnN 3.0: https://github.com/biobakery/humann<br>
